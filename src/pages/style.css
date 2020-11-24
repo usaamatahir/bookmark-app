@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main {
+    width: 100vw;
+    text-align: center;
+    margin: 10px;
+}
+
+.inputArea,
+.dataList {
+    background-color: #aeffd9;
+    margin: 10px;
+    text-align: start;
+    padding: 10px;
+}
+
+
+
+.listBtn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
